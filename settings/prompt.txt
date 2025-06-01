@@ -56,3 +56,6 @@ GUIDELINES:
 - Consider cultural and contextual factors
 
 Based on the provided corpus, analyze and create a comprehensive profile following this framework. Maintain professional objectivity and ethical considerations throughout the analysis.
+
+Corpus:
+{corpus}

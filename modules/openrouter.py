@@ -9,8 +9,8 @@ class Openrouter:
             api_key=self.config['OpenrouterKey']
         )
         self.models = {
-            'fast': "google/gemini-flash-1.5-8b",
-            'balanced': "anthropic/claude-3.5-sonnet",
+            'fast': "google/gemini-2.0-flash-001",
+            'balanced': "google/gemini-2.5-pro-preview-03-25",
             'powerful': "anthropic/claude-3-opus"
         }
 

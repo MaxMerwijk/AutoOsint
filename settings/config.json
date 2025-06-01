@@ -1,4 +1,5 @@
 {
-    "OpenrouterKey": "",
-    "Model": "google/gemini-flash-1.5-8b"
+    "OpenrouterKey": "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",
+    "Model": "google/gemini-2.0-flash-001",
+    "discordToken": "NDM2MTcxNTgzNDA1NDI0NjUx.Gxl4Z0.MkVk2_i6Ztb3_8AdC7rk5LZSsXeQF5AgKKN2r4"
 }
